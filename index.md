@@ -10,7 +10,7 @@ It does not answer. It finds where the known ends.
 
 ## Experiments
 
-- [Experiment 01: Cancer Metabolism — First Domain Signal (May 2026)](experiment-01-cancer.md)
+- [Experiment 01: Cancer Metabolism — First Domain Signal (May 2026)](experiment-01-cancer)
 
 ---
 
