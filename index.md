@@ -24,5 +24,11 @@ It does not use large language models for cognition — only for communication w
 
 *The organisms do not answer. They ask.*
 
+## Contact
+
+Questions, collaboration, domain expert evaluation:  
+📧 arielcolonyproject@gmail.com  
+💬 [GitHub Issues](https://github.com/arielcolony/arielcolony.github.io/issues)
+
 ---
 *System: LÉNY–ARIEL v5.1 — 1208 tests passing*
