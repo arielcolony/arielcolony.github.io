@@ -11,6 +11,7 @@ It does not answer. It finds where the known ends.
 ## Experiments
 
 - [Experiment 01: Cancer Metabolism — First Domain Signal (May 2026)](experiment-01-cancer)
+- [Experiment 02: PGK1 and the Glycolytic-Immune Interface (May 2026)](experiment-02-pgk1)
 
 ---
 
