@@ -27,7 +27,7 @@ It does not use large language models for cognition — only for communication w
 ## Contact
 
 Questions, collaboration, domain expert evaluation:  
-📧 arielcolonyproject@gmail.com  
+📧 arielcolonyproject [] gmail.com  
 💬 [GitHub Issues](https://github.com/arielcolony/arielcolony.github.io/issues)
 
 ---
