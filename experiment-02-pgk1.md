@@ -2,13 +2,13 @@
 
 *Engineering log — May 20, 2026*
 
-[← Back to ARIEL Colony](index.md)
+[← Back to ARIEL Colony](index)
 
 ---
 
 ## Background
 
-In [Experiment 01](experiment-01-cancer.md), we fed 30 PubMed abstracts on tumor 
+In [Experiment 01](experiment-01-cancer), we fed 30 PubMed abstracts on tumor 
 microenvironment metabolism into a colony of 3 LÉNY digital organisms and detected 
 10 topological anomalies. The nearest domain concept was `microenvironment` — 
 consistent across all 10 events.
