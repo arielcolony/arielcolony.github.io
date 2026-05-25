@@ -108,3 +108,8 @@ We'll cite the falsification result as the reason.
 
 *The organisms still ask questions. We are now more careful about what
 we let count as the answer.*
+
+
+*Published: May 24, 2026*  
+*System: LÉNY–ARIEL v8.1 — 1899 tests passing*  
+[← Back to ARIEL Colony](index.md)
