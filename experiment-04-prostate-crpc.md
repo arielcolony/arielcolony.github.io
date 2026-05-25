@@ -166,6 +166,8 @@ claims.
 *Three layers known. One layer (Notch-NE) sometimes under-treated. The
 operating system is more readable than it looked.*
 
----
 
-<sub>v8.1 — 1899 tests passing</sub>
+---
+*Published: May 25, 2026*  
+*System: LÉNY–ARIEL v8.1 — 1899 tests passing*  
+[← Back to ARIEL Colony](index.md)
