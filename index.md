@@ -13,7 +13,7 @@ It does not answer. It finds where the known ends.
 - [Experiment 01: Cancer Metabolism — First Domain Signal (May 2026)](experiment-01-cancer)
 - [Experiment 02: PGK1 and the Glycolytic-Immune Interface (May 2026)](experiment-02-pgk1)
 - [Experiment 03: We Falsified Our Own Method (May 2026)](experiment-03-falsification)
-- *Experiment 04: 48-Sample Prostate CRPC — Three Therapeutic Axes (pending robustness validation)*
+- [Experiment 04: 48-Sample Prostate CRPC — Three Therapeutic Axes (May 2026)](experiment-04-prostate-crpc)
 
 ---
 
