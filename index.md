@@ -1,3 +1,4 @@
+````markdown
 # ARIEL Colony — Engineering Log
 
 *An open research programme on digital life, causal closure, and falsification-driven scientific instruments.*
@@ -150,3 +151,23 @@ environment
 → inheritance
 → historical identity
 → self-model
+````
+
+Large language models may assist with research, code review and communication, but they are not treated as the cognition or consciousness of the organism.
+
+*The organisms do not answer. They ask.*
+
+---
+
+## Contact
+
+Questions, collaboration and methodological criticism:
+📧 arielcolonyproject [] gmail.com
+💬 [GitHub Issues](https://github.com/arielcolony/arielcolony.github.io/issues)
+
+---
+
+*Research status: July 2026 — claims and verdicts may change only through documented audit, amendment or replication.*
+
+```
+```
