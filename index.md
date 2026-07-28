@@ -19,51 +19,7 @@ This log records positive, negative, invalid, blocked, retracted and falsified r
 
 ---
 
-## Experiments
 
-### [Experiment 01 — Cancer Metabolism](experiment-01-cancer)
-
-**Status:** `HISTORICAL_EXPLORATORY_RUN`
-
-An early corpus-based experiment using FHRR representations and topological events.
-
-The run was not evaluated with the null models, corpus controls and matched baselines later required by the ARIEL evidence policy. Its biological interpretations are therefore retained only as historical exploratory observations.
-
----
-
-### [Experiment 02 — PGK1 and the Glycolytic–Immune Interface](experiment-02-pgk1)
-
-**Status:** `HISTORICAL_EXPLORATORY_RUN`
-
-An early attempt to identify possible research gaps from the geometry of a scientific-text corpus.
-
-The reported concept alignments were not shown to provide incremental value over standard text-analysis or retrieval baselines. No biological discovery or validated research gap is claimed.
-
----
-
-### [Experiment 03 — We Falsified Our Own Method](experiment-03-falsification)
-
-**Status:** `FALSIFIED / NEGATIVE_RESULT`
-
-Control experiments showed that an apparent biological topology signal was dominated by the supplied scaffold and survived permutation of the underlying biological assignments.
-
-The original discovery interpretation was rejected.
-
-This experiment established a central ARIEL rule:
-
-> A method that produces a plausible answer under the wrong control has not demonstrated a valid signal.
-
----
-
-### [Experiment 04 — Prostate CRPC Analysis](experiment-04-prostate-crpc)
-
-**Status:** `WITHDRAWN_FROM_EVIDENTIARY_USE`
-
-The original analysis presented single-cohort exploratory patterns as therapeutic axes and mapped selected genes to known drugs.
-
-Those interpretations exceeded the available evidence.
-
-The result lacked independent replication, demonstrated incremental value over standard methods and a fully valid spatial analysis. No causal, therapeutic or clinical claim is retained.
 
 ---
 
